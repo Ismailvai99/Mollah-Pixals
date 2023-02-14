@@ -1,0 +1,21 @@
+#COLOR{
+    color: red;
+    font-family: Arial;
+    transition: 0.7s;
+}
+#COLOR:hover{
+    color: blue;
+}
+body{
+    margin-left: 20px;
+}
+#o{ border: 2px solid red;
+    width: 200;
+    border-radius: 5px;
+    transition: 0.6s;
+
+}
+#o:hover{
+    color: blueviolet;
+    background-color:rgb(0, 255, 13);
+}
